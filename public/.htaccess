@@ -1,0 +1,19 @@
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Não reescreve arquivos/pastas que existem de verdade (uploads, assets...)
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Tudo o mais cai no front controller
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+# Bloqueia execução de PHP dentro de uploads
+<IfModule mod_php.c>
+</IfModule>
