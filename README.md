@@ -15,7 +15,7 @@ O dono edita links, aparência e conteúdo por uma interface web, sem mexer em c
 
 ## 📸 Tela
 
-[![Bio — página de links personalizável no estilo Linktree, desenvolvida por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://publishdev.com.br/bio/)](https://publishdev.com.br/bio/)
+[![Bio — página de links personalizável no estilo Linktree, desenvolvida por Alex Junior (alequizao)](screenshots/tela-principal.png)](https://publishdev.com.br/bio/)
 
 ## 🧱 Stack
 
