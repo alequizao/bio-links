@@ -1,4 +1,8 @@
-<?php declare(strict_types=1); ?>
+<?php declare(strict_types=1); /*
+ * Bio Links · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
+?>
 <!doctype html>
 <html lang="pt-br">
 <head>

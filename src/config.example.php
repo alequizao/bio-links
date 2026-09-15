@@ -1,4 +1,8 @@
 <?php
+/*
+ * Bio Links · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * Configuração central do sistema Bio.
  * Banco, credenciais admin e caminhos.

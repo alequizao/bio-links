@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+/*
+ * Bio Links · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 require_once __DIR__ . '/config.php';
 
 function auth_start(): void

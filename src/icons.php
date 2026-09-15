@@ -1,6 +1,10 @@
 <?php
 declare(strict_types=1);
 
+/*
+ * Bio Links · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * Biblioteca de ícones SVG (estilo traço, 24x24, herdam a cor via currentColor).
  * Use icon('nome') para obter o markup. icon_list() para o seletor do admin.

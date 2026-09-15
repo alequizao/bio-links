@@ -1,5 +1,9 @@
 <?php
 declare(strict_types=1);
+/*
+ * Bio Links · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 // Configurações da tela de login (definidas em /admin/settings)
 $loginImage    = setting_get('login_image', '');
 $loginTitle    = setting_get('login_title', 'Painel Bio') ?: 'Painel Bio';
